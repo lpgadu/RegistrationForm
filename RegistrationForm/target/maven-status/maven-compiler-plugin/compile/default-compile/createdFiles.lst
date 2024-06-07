@@ -1,0 +1,6 @@
+com\RegistraionForm\Service\ServiceImplementation.class
+com\RegistraionForm\Controller\RegisterController.class
+com\RegistraionForm\Repo\RegisterRepo.class
+com\RegistraionForm\RegistrationFormApplication.class
+com\RegistraionForm\User\User.class
+com\RegistraionForm\Service\UserInterface.class
